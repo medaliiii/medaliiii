@@ -6,7 +6,7 @@
 
 ###
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=medalimab&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=medaliiii&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=medalimab&theme=radical" height="150" alt="GitHub Streak" />
 </div>
 
